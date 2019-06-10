@@ -17,4 +17,5 @@ ggplot(counts, aes(x=TYPE, y=COUNT, fill=TYPE, col=TYPE)) + geom_boxplot(lwd = 0
   theme(axis.text.x=element_blank())
         
 
-aggregate(COUNT ~ TYPE + EXPTYPE, counts, median)
+agg <- aggregate(COUNT ~ TYPE + EXPTYPE, counts, median)
+aggregate(COUNT ~ EXPTYPE, agg, sum)
