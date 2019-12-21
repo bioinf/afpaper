@@ -1,8 +1,8 @@
-# Allelic frequencies in Russian population using whole-exome sequencing 
+# Allelic frequencies in Russian population using WES 
 
-Scripts and data processing notes for Russian exome sequencing AF paper
+Scripts and data processing notes for Russian whole-exome sequencing AF paper
 
-<img align="center" src="https://github.com/apredeus/afpaper/blob/master/img/git_v1.svg?sanitize=true">
+<img align="center" src="https://github.com/bioinf/afpaper/blob/master/img/git_v1.svg?sanitize=true">
 
 ## Reference 
 
