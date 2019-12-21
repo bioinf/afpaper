@@ -2,7 +2,7 @@
 
 Scripts and data processing notes for Russian whole-exome sequencing AF paper
 
-<img align="center" src="https://github.com/bioinf/afpaper/blob/master/img/git_v1.svg?sanitize=true">
+<img src="https://github.com/bioinf/afpaper/blob/master/img/git_v1.svg?sanitize=true">
 
 ## Reference 
 
