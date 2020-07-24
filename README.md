@@ -6,7 +6,7 @@ Scripts and data processing notes for Russian whole-exome sequencing AF paper
 
 ## Reference 
 
-Barbitoff YA, Skitchenko RK, Poleshchuk OI, et al. (2019) [Whole-exome sequencing provides insights into monogenic disease prevalence in North-Western Russia.](https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.964) *Mol Genet Genome Med*, **2019**
+Barbitoff YA, Skitchenko RK, Poleshchuk OI *et al.*, [Whole-exome sequencing provides insights into monogenic disease prevalence in North-Western Russia](https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.964), *Mol Genet Genome Med*, **2019**, 7(11), e964.
 
 ## Contents 
 
